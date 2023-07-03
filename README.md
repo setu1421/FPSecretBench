@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7571266.svg)](https://doi.org/10.5281/zenodo.7555981)
 
-*The research work is accepted at the Technical Track of the International Symposium on Empirical Software Engineering and Measurement (ESEM 2023)*
+*The research work is accepted at the Technical Track of the International Symposium on Empirical Software Engineering and Measurement (ESEM 2023). The accepted paper titled "**A Comparative Study of Software Secrets Reporting by Secret Detection Tools**"* can be found here.
 
 ## Table of Contents
    * [Introduction](#introduction)
@@ -73,4 +73,3 @@ Please email us if you want to contribute. See [Authors](#authors) section for c
   journal={arXiv preprint arXiv:2303.06729},
   year={2023}
 } 
-
