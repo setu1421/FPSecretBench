@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 [![DOI](https://zenodo.org/badge/661418566.svg)](https://zenodo.org/badge/latestdoi/661418566)
 
-*The research work is accepted at the Technical Track of the International Symposium on Empirical Software Engineering and Measurement (ESEM 2023). The accepted paper titled "**A Comparative Study of Software Secrets Reporting by Secret Detection Tools**"* can be found here.
+*The research work is accepted at the Technical Track of the International Symposium on Empirical Software Engineering and Measurement (ESEM 2023). The accepted paper titled "**A Comparative Study of Software Secrets Reporting by Secret Detection Tools**"* can be found [here](https://arxiv.org/abs/2307.00714).
 
 ## Table of Contents
    * [Introduction](#introduction)
@@ -67,9 +67,11 @@ Please email us if you want to contribute. See [Authors](#authors) section for c
 ## Cite our work:
 
 ```
-@article{basak2023secretbench,
-  title={SecretBench: A Dataset of Software Secrets},
-  author={Basak, Setu Kumar and Neil, Lorenzo and Reaves, Bradley and Williams, Laurie},
-  journal={arXiv preprint arXiv:2303.06729},
-  year={2023}
-} 
+@misc{basak2023comparative,
+      title={A Comparative Study of Software Secrets Reporting by Secret Detection Tools}, 
+      author={Setu Kumar Basak and Jamison Cox and Bradley Reaves and Laurie Williams},
+      year={2023},
+      eprint={2307.00714},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR}
+}
